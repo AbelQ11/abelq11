@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I’m Abel</h1>
+<h1 align="center">Hi, I’m Abel</h1>
 
 <p align="center">
-  🎓 Computer Science Student — <b>SUPINFO</b><br>
-  💻 Aspiring Developer | 🔐 Passionate about Digital Privacy & Systems Architecture<br>
-  🔍 Goal: <b>Purple Team Cybersecurity Capacity</b>
+  Computer Science Student - <b>SUPINFO</b><br>
+  Aspiring Developer | Passionate about Digital Privacy, Systems Architecture & Linux<br>
+  Goal: <b>Purple Team Cybersecurity Capacity</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
@@ -40,15 +40,15 @@
 
 <br>
 
-## 🚀 Highlighted Projects
+## Highlighted Projects
 
-*   **Sibyl System:** A Svelte website inspired by the anime *Psycho-Pass* that helps people when they're not feeling good.
+*   **Sibyl System:** A Svelte website inspired by the anime *Psycho-Pass* that helps people when they're not feeling well.
 *   **Free Game Deals:** A JavaScript-based Discord bot designed to track and share 100% free game promotions across platforms like Steam, GOG, and Epic Games.
 *   **Mole in the Hole:** A multi-platform multiplayer game developed using Python and Tkinter, featuring custom networking logic and a LAN discovery system.
 
 <br>
 
-## ⚡ Beyond the Code
+## Beyond the Code
 
 *   I use **Arch Linux** as my daily driver and primary development environment.
 *   When I am not coding, I listen to music or play video games (*NieR: Automata / Replicant* are the best).
