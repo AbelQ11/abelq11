@@ -49,6 +49,18 @@
 
 <br>
 
+<div align="center">
+  <h3>My GitHub Stats</h3>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelq11&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abelq11&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=abelq11&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
+
 ## Beyond the Code
 
 *   I use **Arch Linux** as my daily driver and primary development environment.
