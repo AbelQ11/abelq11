@@ -58,7 +58,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abelq11&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
   <br><br>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=abelq11&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=abelq11&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ## Beyond the Code
