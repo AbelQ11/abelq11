@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust">
 
 **Frameworks & Libraries**<br>
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
@@ -46,6 +47,7 @@
 *   **Sibyl System:** A Svelte website inspired by the anime *Psycho-Pass* that helps people when they're not feeling well.
 *   **Free Game Deals:** A JavaScript-based Discord bot designed to track and share 100% free game promotions across platforms like Steam, GOG, and Epic Games.
 *   **Mole in the Hole:** A multi-platform multiplayer game developed using Python and Tkinter, featuring custom networking logic and a LAN discovery system.
+*   **Project 2501**: A lightweight Linux security daemon and web analytics engine based on Ghost in the Shell by Masamune Shirow. Written in Rust.
 
 <br>
 
