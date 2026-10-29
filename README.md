@@ -57,9 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelq11&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abelq11&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-  <br><br>
-  
 </div>
 
 ## Beyond the Code
